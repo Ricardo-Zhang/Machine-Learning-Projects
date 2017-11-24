@@ -1,0 +1,532 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 SEP 2017 17:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**hw0.tex
+(./hw0.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/extramarks.sty
+Package: extramarks 2016/08/27 2.1 Extra marks
+\@temptokenb=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count96
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip52
+\@affilsep=\skip53
+\c@Maxaffil=\count97
+\c@authors=\count98
+\c@affil=\count99
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen109
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip10
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks18
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks19
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks20
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@ContinuedFloat=\count112
+Package caption Info: listings package is loaded.
+)
+\c@KVtest=\count113
+\sf@farskip=\skip57
+\sf@captopadj=\dimen125
+\sf@capskip=\skip58
+\sf@nearskip=\skip59
+\c@subfigure=\count114
+\c@subfigure@save=\count115
+\c@lofdepth=\count116
+\c@subtable=\count117
+\c@subtable@save=\count118
+\c@lotdepth=\count119
+\sf@top=\skip60
+\sf@bottom=\skip61
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen126
+\extrarowheight=\dimen127
+\NC@list=\toks22
+\extratabsurround=\skip62
+\backup@length=\skip63
+)
+\TX@col@width=\dimen128
+\TX@old@table=\dimen129
+\TX@old@col=\dimen130
+\TX@target=\dimen131
+\TX@delta=\dimen132
+\TX@cols=\count120
+\TX@ftn=\toks23
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+\c@homeworkProblemCounter=\count121
+ (./hw0.aux)
+\openout1 = `hw0.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 182.
+ (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen133
+\scratchbox=\box30
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen134
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count128
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 183.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./hw0.
+toc)
+\tf@toc=\write3
+\openout3 = `hw0.toc'.
+
+ [2]
+<pic/person01_01.png, id=15, 50.1875pt x 50.1875pt>
+File: pic/person01_01.png Graphic file (type png)
+ <use pic/person01_01.png>
+Package pdftex.def Info: pic/person01_01.png used on input line 205.
+(pdftex.def)             Requested size: 85.35826pt x 85.3712pt.
+
+<pic/mean_train.jpg, id=16, 642.4pt x 481.8pt>
+File: pic/mean_train.jpg Graphic file (type jpg)
+ <use pic/mean_train.jpg>
+Package pdftex.def Info: pic/mean_train.jpg used on input line 213.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/mean_subtraction_train.jpg, id=17, 642.4pt x 481.8pt>
+File: pic/mean_subtraction_train.jpg Graphic file (type jpg)
+
+<use pic/mean_subtraction_train.jpg>
+Package pdftex.def Info: pic/mean_subtraction_train.jpg used on input line 222.
+
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/mean_subtraction_test.jpg, id=18, 642.4pt x 481.8pt>
+File: pic/mean_subtraction_test.jpg Graphic file (type jpg)
+
+<use pic/mean_subtraction_test.jpg>
+Package pdftex.def Info: pic/mean_subtraction_test.jpg used on input line 223.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--229
+
+ []
+
+<pic/svd_0_.jpg, id=19, 642.4pt x 481.8pt>
+File: pic/svd_0_.jpg Graphic file (type jpg)
+ <use pic/svd_0_.jpg>
+Package pdftex.def Info: pic/svd_0_.jpg used on input line 233.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_1_.jpg, id=20, 642.4pt x 481.8pt>
+File: pic/svd_1_.jpg Graphic file (type jpg)
+ <use pic/svd_1_.jpg>
+Package pdftex.def Info: pic/svd_1_.jpg used on input line 234.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_2_.jpg, id=21, 642.4pt x 481.8pt>
+File: pic/svd_2_.jpg Graphic file (type jpg)
+ <use pic/svd_2_.jpg>
+Package pdftex.def Info: pic/svd_2_.jpg used on input line 235.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_3_.jpg, id=22, 642.4pt x 481.8pt>
+File: pic/svd_3_.jpg Graphic file (type jpg)
+ <use pic/svd_3_.jpg>
+Package pdftex.def Info: pic/svd_3_.jpg used on input line 236.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_4_.jpg, id=23, 642.4pt x 481.8pt>
+File: pic/svd_4_.jpg Graphic file (type jpg)
+ <use pic/svd_4_.jpg>
+Package pdftex.def Info: pic/svd_4_.jpg used on input line 237.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_5_.jpg, id=24, 642.4pt x 481.8pt>
+File: pic/svd_5_.jpg Graphic file (type jpg)
+ <use pic/svd_5_.jpg>
+Package pdftex.def Info: pic/svd_5_.jpg used on input line 238.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_6_.jpg, id=25, 642.4pt x 481.8pt>
+File: pic/svd_6_.jpg Graphic file (type jpg)
+ <use pic/svd_6_.jpg>
+Package pdftex.def Info: pic/svd_6_.jpg used on input line 239.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_7_.jpg, id=26, 642.4pt x 481.8pt>
+File: pic/svd_7_.jpg Graphic file (type jpg)
+ <use pic/svd_7_.jpg>
+Package pdftex.def Info: pic/svd_7_.jpg used on input line 240.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_8_.jpg, id=27, 642.4pt x 481.8pt>
+File: pic/svd_8_.jpg Graphic file (type jpg)
+ <use pic/svd_8_.jpg>
+Package pdftex.def Info: pic/svd_8_.jpg used on input line 241.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+<pic/svd_9_.jpg, id=28, 642.4pt x 481.8pt>
+File: pic/svd_9_.jpg Graphic file (type jpg)
+ <use pic/svd_9_.jpg>
+Package pdftex.def Info: pic/svd_9_.jpg used on input line 242.
+(pdftex.def)             Requested size: 85.35826pt x 64.01831pt.
+
+Overfull \hbox (17.03632pt too wide) in paragraph at lines 232--244
+[][] 
+ []
+
+<pic/approximation.png, id=29, 462.528pt x 346.896pt>
+File: pic/approximation.png Graphic file (type png)
+
+<use pic/approximation.png>
+Package pdftex.def Info: pic/approximation.png used on input line 251.
+(pdftex.def)             Requested size: 375.80542pt x 281.86818pt.
+
+<pic/logistic_face_accuracy.png, id=31, 462.528pt x 346.896pt>
+File: pic/logistic_face_accuracy.png Graphic file (type png)
+
+<use pic/logistic_face_accuracy.png>
+Package pdftex.def Info: pic/logistic_face_accuracy.png used on input line 259.
+
+(pdftex.def)             Requested size: 375.80542pt x 281.86818pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 267.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 267.
+ [3 <./pic/person01_01.png (PNG copy)> <./pic/mean_train.jpg> <./pic/mean_subtr
+action_train.jpg> <./pic/mean_subtraction_test.jpg>] [4 <./pic/svd_0_.jpg> <./p
+ic/svd_1_.jpg> <./pic/svd_2_.jpg> <./pic/svd_3_.jpg> <./pic/svd_4_.jpg> <./pic/
+svd_5_.jpg> <./pic/svd_6_.jpg> <./pic/svd_7_.jpg> <./pic/svd_8_.jpg> <./pic/svd
+_9_.jpg> <./pic/approximation.png>] <pic/kaggle2.png, id=40, 988.69376pt x 524.
+96124pt>
+File: pic/kaggle2.png Graphic file (type png)
+
+<use pic/kaggle2.png>
+Package pdftex.def Info: pic/kaggle2.png used on input line 281.
+(pdftex.def)             Requested size: 281.85585pt x 149.65555pt.
+
+Overfull \hbox (15.42653pt too wide) in paragraph at lines 272--286
+\OT1/cmr/m/n/10 (d) The av-er-age ac-cu-racy for 3-fold cross-validation for bo
+th Gaus-sian prior and Bernoulli prior are 0.38215893891
+ []
+
+[5 <./pic/logistic_face_accuracy.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+[6 <./pic/kaggle2.png>]
+Overfull \hbox (20.2464pt too wide) detected at line 340
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+
+AED: lastpage setting LastPage
+[7] (./hw0.aux) ) 
+Here is how much of TeX's memory you used:
+ 5522 strings out of 492995
+ 82899 string characters out of 6132704
+ 272527 words of memory out of 5000000
+ 8975 multiletter control sequences out of 15000+600000
+ 7024 words of font info for 26 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,17n,49p,290b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.en
+c}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on hw0.pdf (7 pages, 792786 bytes).
+PDF statistics:
+ 94 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
